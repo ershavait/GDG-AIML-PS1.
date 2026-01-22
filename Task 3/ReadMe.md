@@ -18,8 +18,8 @@ It works in 2 parts:
 ---
 
 ## 📂 Files in this project
-- `backfill.py` → downloads historical candles and creates the CSV :contentReference[oaicite:0]{index=0}  
-- `live_stream_save.py` → streams live candles and updates the same CSV :contentReference[oaicite:1]{index=1}  
+- `backfill.py` → downloads historical candles and creates the CSV  
+- `live_stream_save.py` → streams live candles and updates the same CSV  
 
 ---
 
