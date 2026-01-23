@@ -5,7 +5,7 @@ A Streamlit-based forecasting app that takes any **Yahoo Finance ticker** as inp
 - shows historical predictions + future forecast with confidence interval
 
 File:
-- `app.py` :contentReference[oaicite:0]{index=0}
+- `app.py`  
 
 ---
 
