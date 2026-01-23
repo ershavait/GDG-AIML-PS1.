@@ -20,7 +20,7 @@ You can enter any Yahoo Finance ticker (example: `RELIANCE.NS`, `^NSEI`, `AAPL`)
 ---
 
 ## 📂 File
-- `app.py` → main Streamlit application :contentReference[oaicite:0]{index=0}
+- `app.py` → main Streamlit application  
 
 ---
 
