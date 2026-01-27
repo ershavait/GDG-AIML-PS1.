@@ -27,8 +27,7 @@ You can enter any Yahoo Finance ticker (example: `RELIANCE.NS`, `^NSEI`, `AAPL`)
 ## ⚙️ Requirements
 - Python 3.9+
 - Internet connection (for yfinance data)
-
-Install libraries:
+ 
 
 ```bash
 pip install streamlit pandas yfinance matplotlib statsmodels
