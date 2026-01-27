@@ -15,7 +15,7 @@ It can fetch stock prices, read finance/news updates, store context using a vect
 ---
 
 ## Requirements
-- Python 3.9+
+- Python 3.9-3.11
 - Jupyter Notebook / Google Colab
 - Active internet connection
 
