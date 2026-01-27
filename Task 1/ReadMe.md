@@ -30,7 +30,7 @@ You can enter any Yahoo Finance ticker (example: `RELIANCE.NS`, `^NSEI`, `AAPL`)
  
 
  
-
+```bash
 # 1) Install dependencies
 pip install streamlit pandas yfinance matplotlib statsmodels
 
